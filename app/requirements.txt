@@ -8,3 +8,4 @@ moviepy
 tqdm
 onnxruntime
 Flask
+gunicorn
